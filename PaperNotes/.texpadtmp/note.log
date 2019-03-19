@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.26)  9 MAR 2019 12:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.26)  9 MAR 2019 13:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -950,7 +950,80 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 
 
 Writing index file note.idx
-(/Users/remosy/Desktop/Odyssey/PaperNotes/.texpadtmp/note.aux)
+(/Users/remosy/Desktop/Odyssey/PaperNotes/.texpadtmp/note.aux
+
+LaTeX Warning: Label `sec:problemstatement' multiply defined.
+
+
+LaTeX Warning: Label `sec:problemstatement@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:motivations' multiply defined.
+
+
+LaTeX Warning: Label `sec:motivations@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:projectscope' multiply defined.
+
+
+LaTeX Warning: Label `sec:projectscope@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:outline' multiply defined.
+
+
+LaTeX Warning: Label `sec:outline@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:problemstatement' multiply defined.
+
+
+LaTeX Warning: Label `sec:problemstatement@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:motivations' multiply defined.
+
+
+LaTeX Warning: Label `sec:motivations@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:projectscope' multiply defined.
+
+
+LaTeX Warning: Label `sec:projectscope@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:outline' multiply defined.
+
+
+LaTeX Warning: Label `sec:outline@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:problemstatement' multiply defined.
+
+
+LaTeX Warning: Label `sec:problemstatement@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:motivations' multiply defined.
+
+
+LaTeX Warning: Label `sec:motivations@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:projectscope' multiply defined.
+
+
+LaTeX Warning: Label `sec:projectscope@cref' multiply defined.
+
+
+LaTeX Warning: Label `sec:outline' multiply defined.
+
+
+LaTeX Warning: Label `sec:outline@cref' multiply defined.
+
+)
 \openout1 = `note.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -1246,9 +1319,66 @@ LaTeX Warning: Reference `cha:result' on page 1 undefined on input line 29.
 
 LaTeX Warning: Reference `cha:conc' on page 1 undefined on input line 29.
 
-) [1
+) (./Ref2.tex [1
 
 ] [2
+
+]
+Chapter 2.
+
+LaTeX Warning: Reference `cha:background' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Reference `cha:design' on page 3 undefined on input line 28.
+
+
+LaTeX Warning: Reference `cha:methodology' on page 3 undefined on input line 28.
+
+
+LaTeX Warning: Reference `cha:result' on page 3 undefined on input line 29.
+
+
+LaTeX Warning: Reference `cha:conc' on page 3 undefined on input line 29.
+
+) (./Ref3.tex [3] [4
+
+]
+Chapter 3.
+
+LaTeX Warning: Reference `cha:background' on page 5 undefined on input line 27.
+
+
+LaTeX Warning: Reference `cha:design' on page 5 undefined on input line 28.
+
+
+LaTeX Warning: Reference `cha:methodology' on page 5 undefined on input line 28.
+
+
+LaTeX Warning: Reference `cha:result' on page 5 undefined on input line 29.
+
+
+LaTeX Warning: Reference `cha:conc' on page 5 undefined on input line 29.
+
+) (./Ref4.tex [5] [6
+
+]
+Chapter 4.
+
+LaTeX Warning: Reference `cha:background' on page 7 undefined on input line 27.
+
+
+LaTeX Warning: Reference `cha:design' on page 7 undefined on input line 28.
+
+
+LaTeX Warning: Reference `cha:methodology' on page 7 undefined on input line 28.
+
+
+LaTeX Warning: Reference `cha:result' on page 7 undefined on input line 29.
+
+
+LaTeX Warning: Reference `cha:conc' on page 7 undefined on input line 29.
+
+) [7] [8
 
 ] (/Users/remosy/Desktop/Odyssey/PaperNotes/.texpadtmp/note.bbl (/Users/remosy/Desktop/Odyssey/PaperNotes/.texpadtmp/note.brf)
 \tf@brf=\write7
@@ -1271,7 +1401,7 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 46.
 See the caption package documentation for explanation.
 
-[3
+[9
 
 
 ]
@@ -1288,21 +1418,24 @@ Package rerunfilecheck Info: File `note.brf' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
  ) 
 Here is how much of TeX's memory you used:
- 34216 strings out of 492649
- 674179 string characters out of 6129622
- 781824 words of memory out of 5000000
- 37493 multiletter control sequences out of 15000+600000
+ 34294 strings out of 492649
+ 675284 string characters out of 6129622
+ 782824 words of memory out of 5000000
+ 37538 multiletter control sequences out of 15000+600000
  586166 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,9n,95p,10370b,778s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /Users/remosy/Desktop/Odyssey/PaperNotes/.texpadtmp/note.pdf (7 pages, 83905 bytes).
+Output written on /Users/remosy/Desktop/Odyssey/PaperNotes/.texpadtmp/note.pdf (13 pages, 96943 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 37957 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 220 PDF objects out of 1000 (max. 8388607)
+ 197 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 38077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
