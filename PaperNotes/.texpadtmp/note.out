@@ -1,21 +1,33 @@
 \BOOKMARK [0][-]{tocmark.0}{Contents}{}% 1
-\BOOKMARK [0][-]{chapter.1}{playing hard exploration game by watching YouTube}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Atari Gym:Ice Hockey}{}% 2
 \BOOKMARK [1][-]{section.1.1}{Problem Statement}{chapter.1}% 3
 \BOOKMARK [1][-]{section.1.2}{Motivations}{chapter.1}% 4
 \BOOKMARK [1][-]{section.1.3}{Project Scope}{chapter.1}% 5
 \BOOKMARK [1][-]{section.1.4}{Report Outline}{chapter.1}% 6
-\BOOKMARK [0][-]{chapter.2}{Supervised Video Representation Learning with Odd-One-Out Networks}{}% 7
-\BOOKMARK [1][-]{section.2.1}{Problem Statement}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.2}{Motivations}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.3}{Project Scope}{chapter.2}% 10
-\BOOKMARK [1][-]{section.2.4}{Report Outline}{chapter.2}% 11
-\BOOKMARK [0][-]{chapter.3}{Player Experience Extraction from gameplay video}{}% 12
-\BOOKMARK [1][-]{section.3.1}{Problem Statement}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.2}{Motivations}{chapter.3}% 14
-\BOOKMARK [1][-]{section.3.3}{Project Scope}{chapter.3}% 15
-\BOOKMARK [1][-]{section.3.4}{Report Outline}{chapter.3}% 16
-\BOOKMARK [0][-]{chapter.4}{Atari Gym}{}% 17
-\BOOKMARK [1][-]{section.4.1}{Problem Statement}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.2}{Motivations}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.3}{Project Scope}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.4}{Report Outline}{chapter.4}% 21
+\BOOKMARK [0][-]{chapter.2}{Learning from Demonstration}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Playing hard exploration games by watching YouTube}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Player Experience Extraction from Gameplay Video}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Learning Montezuma's Revenge from a Single Demonstration}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{Deep Q-learning from Demonstration}{chapter.2}% 11
+\BOOKMARK [0][-]{chapter.3}{State Embeddings}{}% 12
+\BOOKMARK [1][-]{section.3.1}{Dynamic image encoder}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.2}{Stack of difference of frame video-clip encoder}{chapter.3}% 14
+\BOOKMARK [0][-]{chapter.4}{RL}{}% 15
+\BOOKMARK [1][-]{section.4.1}{Definitions}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.2}{Off/Policy}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.3}{On/Policy}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.4}{Model Based}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.5}{Model Free}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.6}{DQN}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.7}{A3C}{chapter.4}% 22
+\BOOKMARK [0][-]{chapter.5}{IRL}{}% 23
+\BOOKMARK [1][-]{section.5.1}{Apprenticeship Learing}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.2}{Bayesian Inverse Reinforcement Learning}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.3}{Maximum Entropy Reinforcement Learning}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.4}{Generative Adversarial Imitation Learning}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.5}{Project Scope}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.6}{Report Outline}{chapter.5}% 29
+\BOOKMARK [0][-]{chapter.6}{State Embeddings}{}% 30
+\BOOKMARK [1][-]{section.6.1}{Dynamic image encoder}{chapter.6}% 31
+\BOOKMARK [1][-]{section.6.2}{Stack of difference of frame video-clip encoder}{chapter.6}% 32
+\BOOKMARK [0][-]{section*.3}{Bibliography}{}% 33

@@ -2,7 +2,11 @@
 
 \input{config}
 \input{macros}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Use Package
+\usepackage[shortcuts]{extdash}
+\usepackage[T1]{fontenc}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Preamble
 \title{Teach AI play the Atari ice hockey game by videos}
@@ -10,10 +14,8 @@
 \date{\today}
 
 \renewcommand{\thepage}{\roman{page}}
-
 \makeindex
 \begin{document}
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Title page
 \pagestyle{empty}
@@ -33,10 +35,12 @@
 %% Here begins the main text
 \mainmatter
 %% Chapters
-\input{Ref1}
-\input{Ref2}
-\input{Ref3}
-\input{Ref4}
+\input{AtariIceHockey}
+\input{LearnFromdemo}
+\input{StateEmbed}
+\input{RL}
+\input{IRL}
+\input{PolicyOpt}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Here begins the end matter
 \backmatter

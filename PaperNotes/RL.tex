@@ -1,0 +1,42 @@
+\chapter{RL}
+\label{cha:Ref3}
+
+\section{Definitions}
+\begin{description}
+\begin{item}Agent: An agent takes actions\end{item}
+
+\begin{item}Action (A): A is the set of all possible moves the agent can make\end{item}
+
+\begin{item}Environment: The world through which the agent moves. The environment takes the agent$\prime$ current state and action as input, and returns as output the agent$\prime$s reward and next state\end{item}
+
+\begin{item}State (S): A state is a concrete and immediate situation in which the agent finds itself\end{item}
+
+\begin{item}Reward (r): A reward is the feedback by which we measure the success or failure of an agent$\prime$ s actions\end{item}
+
+\begin{item}Discount factor ($\gamma$): The discount factor is multiplied with future rewards as discovered by the agent in order to dampen their effect on the agent$\prime$ s choice of action. It makes future rewards worth less than immediate rewards \end{item}
+
+\begin{item}Policy ($\pi$): The policy is the strategy the agent employs to determine the next action based on the current state. It maps states to actions\end{item}
+
+\begin{item}Value (V): The expected long\-/term return with discount, as opposed to the short\-/term reward r. $V\pi(s)$ is defined as the expected long\-/term return of the current state under policy $\pi$ \end{item}
+
+\begin{item} Q\-/value or action\-/value (Q): Q\-/value is similar to Value, except that it takes an extra parameter, the current action a. $Q\pi(s,a)$ refers to the long \-/term return of the current state$\prime$ s, taking action a under policy $\pi$. Q maps state\-/action pairs to rewards\end{item}
+\end{description}
+
+\section{Off\-/Policy}
+
+\section{On\-/Policy}
+
+\section{Model Based}
+
+\section{Model Free}
+
+\section{DQN}
+Use the immediate reward we receive and a value estimate of our new state to update the value estimate of original state\-/action pair. We only had the learned value function Q\-/function and the policy we followed was simply taking the action that maximised the Q\-/value at each step
+
+\section{A3C}
+Actor\-/critic methods combine policy gradient methods with a learned value function.
+we learn two different functions: the policy (or "actor"), and the value (the "criti"). The "policy" adjusts action probabilities based on the current estimated advantage of taking that action, and the value function updates that advantage based on the experience and rewards collected by following the policy
+
+How many chapters you have? You may have Chapter~\ref{cha:background},
+Chapter~\ref{cha:design}, Chapter~\ref{cha:methodology},
+Chapter~\ref{cha:result}, and Chapter~\ref{cha:conc}.
