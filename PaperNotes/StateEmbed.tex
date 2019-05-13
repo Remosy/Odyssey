@@ -1,10 +1,41 @@
 \chapter{State Embeddings}
-\label{cha:intro}
+
 
 \section{Dynamic image encoder}
 
 
 \section{Stack of difference of frame video-clip encoder}
+
+\section{Grad-CAM ++}
+The Class Activation Mapping has been generalised into Gradient Class Activation Mapping (Grad-CAM). The interpretability of Grad-CAM in deep network can lead researchers to failures of model. For the interpretability, the Grad-CAM can discriminate the image classes by localising the region of interest (ROI) in a image. 
+
+Grad-CAM uses CNN architecture, the gradient mappings obtained from CNN can be used in the final fully connected layer to significant the regions of interest in a image. \todo[inline]{Where to get the gradient information}
+ 
+\[\alpha ^c_k = \frac{1}{Z}\sum_i \sum_j \frac{\partial y^c}{\partial A^k_ij}\]
+
+ $\alpha ^c_k$ : \\
+ 
+ $\frac{1}{Z}$ : global average pooling\\
+ 
+ $y^c$ :\\
+ 
+ $A^k_ij$ : A matrix of K feature map\\
+ 
+ $\frac{\partial y^c}{\partial A^k_ij}$ :\\
+
+
+%% Final result of localisation
+\[L^c_{Grad\_CAM} = ReLU(\sum _k \alpha^c_kA^k)\]
+
+$ReLU$:
+it's good to see the positive result \\
+
+Grad-CAM ++ is better for video-based training.
+\todo[inline]{Why "++" better for video? How differ from Grad\_CAM?}
+
+
+\section{VCG}
+   
 
 How many chapters you have? You may have Chapter~\ref{cha:background},
 Chapter~\ref{cha:design}, Chapter~\ref{cha:methodology},

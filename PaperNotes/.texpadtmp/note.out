@@ -12,22 +12,24 @@
 \BOOKMARK [0][-]{chapter.3}{State Embeddings}{}% 12
 \BOOKMARK [1][-]{section.3.1}{Dynamic image encoder}{chapter.3}% 13
 \BOOKMARK [1][-]{section.3.2}{Stack of difference of frame video-clip encoder}{chapter.3}% 14
-\BOOKMARK [0][-]{chapter.4}{RL}{}% 15
-\BOOKMARK [1][-]{section.4.1}{Definitions}{chapter.4}% 16
-\BOOKMARK [1][-]{section.4.2}{Off/Policy}{chapter.4}% 17
-\BOOKMARK [1][-]{section.4.3}{On/Policy}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.4}{Model Based}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.5}{Model Free}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.6}{DQN}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.7}{A3C}{chapter.4}% 22
-\BOOKMARK [0][-]{chapter.5}{IRL}{}% 23
-\BOOKMARK [1][-]{section.5.1}{Apprenticeship Learing}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.2}{Bayesian Inverse Reinforcement Learning}{chapter.5}% 25
-\BOOKMARK [1][-]{section.5.3}{Maximum Entropy Reinforcement Learning}{chapter.5}% 26
-\BOOKMARK [1][-]{section.5.4}{Generative Adversarial Imitation Learning}{chapter.5}% 27
-\BOOKMARK [1][-]{section.5.5}{Project Scope}{chapter.5}% 28
-\BOOKMARK [1][-]{section.5.6}{Report Outline}{chapter.5}% 29
-\BOOKMARK [0][-]{chapter.6}{State Embeddings}{}% 30
-\BOOKMARK [1][-]{section.6.1}{Dynamic image encoder}{chapter.6}% 31
-\BOOKMARK [1][-]{section.6.2}{Stack of difference of frame video-clip encoder}{chapter.6}% 32
-\BOOKMARK [0][-]{section*.3}{Bibliography}{}% 33
+\BOOKMARK [1][-]{section.3.3}{Grad-CAM ++}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.4}{VCG}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{RL}{}% 17
+\BOOKMARK [1][-]{section.4.1}{Definitions}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{Off/Policy}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{On/Policy}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.4}{Model Based}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.5}{Model Free}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.6}{DQN}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.7}{A3C}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{IRL}{}% 25
+\BOOKMARK [1][-]{section.5.1}{Apprenticeship Learing}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.2}{Bayesian Inverse Reinforcement Learning}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.3}{Maximum Entropy Reinforcement Learning}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.4}{Generative Adversarial Imitation Learning}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.5}{Project Scope}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.6}{Report Outline}{chapter.5}% 31
+\BOOKMARK [0][-]{chapter.6}{Policy Optimisation}{}% 32
+\BOOKMARK [1][-]{section.6.1}{Dynamic image encoder}{chapter.6}% 33
+\BOOKMARK [1][-]{section.6.2}{Stack of difference of frame video-clip encoder}{chapter.6}% 34
+\BOOKMARK [0][-]{section*.5}{Bibliography}{}% 35
