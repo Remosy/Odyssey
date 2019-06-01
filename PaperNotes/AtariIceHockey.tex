@@ -1,29 +1,39 @@
 \chapter{Atari Gym:Ice Hockey}
 \label{cha:intro}
 
-Put your introduction here. You could use \textbackslash fix\{ABCDEFG.\}
-to leave your comments, see the box at the left side.
 
-\fix{You have to rewrite your thesis!!!}
-
-
-\section{Problem Statement}
-\label{sec:problemstatement}
-Describe the problem your project addresses.
+\section{Gym}
+Open AI published a reinforcement learning toolkit, gym. It includes the Arcade learning environment(Bellemare et al., 2012) ran on Stella Atari emulator. Therefore, user can train AI agents for a large number of Atari games from the gym library. 
 
 
-\section{Motivations}
-\label{sec:motivations}
+\section{Ice Hockey}
+Ice Hockey, an Atari video game released in 1981. It has two game modes: single and 2-player multiplayer. Ice Hockey has two teams, one team wear yellow cloth and green pants, another team wear blue cloth and red pants. Each team has two roles, goalie and offense. In this game, the action control is taken by either goalie or offense of a team, who is closer to the hockey puck. The whole time for a game episode is 3 minutes. \\
 
+In the gym library, Ice Hockey has an observation shape (210,160,3); it has 3 layers of RGB, each layer is shaped in height 210 and width 160. \\
 
-\section{Project Scope}
-\label{sec:projectscope}
-Describe the problem your project addresses.
+Space: Discrete \\
+timesteplimit = maxEpisodeSteps\\
+Trials = 100\\
+Ram version Vs. Non-ram Version\\
+Deterministic? No\\
+NoFrameSkip?\\
 
+\begin{table}[]
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{{[}0{]} Noop}                      & \textbf{{[}1{]} Fire}                    & \textbf{{[}2{]} Up}           & \textbf{{[}3{]} Right}      \\ \hline
+-                                          & (32,) ESC                                & (119,) W                      & (100,) D                    \\ \hline
+\textbf{{[}4{]} Left}                      & \textbf{{[}5{]} Down}                    & \textbf{{[}6{]} UpRight}      & \textbf{{[}7{]} UpLeft}     \\ \hline
+(97,) A                                    & (115,) S                                 & (100,119) D,W                 & (97,119) A,W                \\ \hline
+\textbf{{[}8{]} DownRight}                 & \textbf{{[}9{]} DownLeft}                & \textbf{{[}10{]} Upfire}      & \textbf{{[}11{]} RightFire} \\ \hline
+(100,115) D,S                              & (97,115) A,S                             & (32,119) ESC,W                & (32,100) ESC,D              \\ \hline
+\textbf{{[}12{]} LeftFire}                 & \textbf{{[}13{]} DownFire}               & \textbf{{[}14{]} UpRightFire} & \textbf{{[}15{]}UpLeftFire} \\ \hline
+(32,97) ESC,A                              & (32,115) ESC,S                           & (32,100,119) ESC,D,W          & (32,97,119) ESC,A,W         \\ \hline
+\textbf{{[}16{]}DownRightFire}             & \textbf{{[}17{]}DownLeftFire}            & \textbf{}                     & \textbf{}                   \\ \hline
+\multicolumn{1}{|c|}{(32,100,115) ESC,D,S} & \multicolumn{1}{c|}{(32,97,115) ESC,A,S} & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{}       \\ \hline
+\end{tabular}
+\caption{Actions}
+\label{table:1}
+\end{table}
 
-\section{Report Outline}
-\label{sec:outline}
-
-How many chapters you have? You may have Chapter~\ref{cha:background},
-Chapter~\ref{cha:design}, Chapter~\ref{cha:methodology},
-Chapter~\ref{cha:result}, and Chapter~\ref{cha:conc}.
+Size = [105 80]
