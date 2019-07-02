@@ -6,27 +6,33 @@
 \contentsline {section}{\numberline {2.2}Player Experience Extraction from Gameplay Video}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Learning Montezuma's Revenge from a Single Demonstration}{3}{section.2.3}
 \contentsline {section}{\numberline {2.4}Deep Q-learning from Demonstration}{3}{section.2.4}
-\contentsline {chapter}{\numberline {3}State Embeddings}{5}{chapter.3}
-\contentsline {section}{\numberline {3.1}Dynamic image encoder}{5}{section.3.1}
-\contentsline {section}{\numberline {3.2}Stack of difference of frame video-clip encoder}{5}{section.3.2}
-\contentsline {section}{\numberline {3.3}Grad-CAM ++}{5}{section.3.3}
-\contentsline {section}{\numberline {3.4}VCG}{6}{section.3.4}
-\contentsline {chapter}{\numberline {4}RL}{7}{chapter.4}
-\contentsline {section}{\numberline {4.1}Definitions}{7}{section.4.1}
-\contentsline {section}{\numberline {4.2}Off\HyphOrDash /Policy}{8}{section.4.2}
-\contentsline {section}{\numberline {4.3}On\HyphOrDash /Policy}{8}{section.4.3}
-\contentsline {section}{\numberline {4.4}Model Based}{8}{section.4.4}
-\contentsline {section}{\numberline {4.5}Model Free}{8}{section.4.5}
-\contentsline {section}{\numberline {4.6}DQN}{8}{section.4.6}
-\contentsline {section}{\numberline {4.7}A3C}{8}{section.4.7}
-\contentsline {chapter}{\numberline {5}IRL}{9}{chapter.5}
-\contentsline {section}{\numberline {5.1}Apprenticeship Learing}{9}{section.5.1}
-\contentsline {section}{\numberline {5.2}Bayesian Inverse Reinforcement Learning}{9}{section.5.2}
-\contentsline {section}{\numberline {5.3}Maximum Entropy Reinforcement Learning}{9}{section.5.3}
-\contentsline {section}{\numberline {5.4}Generative Adversarial Imitation Learning}{9}{section.5.4}
-\contentsline {section}{\numberline {5.5}Project Scope}{9}{section.5.5}
-\contentsline {section}{\numberline {5.6}Report Outline}{9}{section.5.6}
-\contentsline {chapter}{\numberline {6}Policy Optimisation}{11}{chapter.6}
-\contentsline {section}{\numberline {6.1}Dynamic image encoder}{11}{section.6.1}
-\contentsline {section}{\numberline {6.2}Stack of difference of frame video-clip encoder}{11}{section.6.2}
-\contentsline {chapter}{Bibliography}{13}{section*.5}
+\contentsline {chapter}{\numberline {3}Object Detection}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}My Application}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Object-oriented state Abstraction in RL for Video Games}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}CenterNet: Keypoint Triplets for Object Detection}{6}{section.3.3}
+\contentsline {section}{\numberline {3.4}HSV vs. RGB vs. YUV}{6}{section.3.4}
+\contentsline {section}{\numberline {3.5}Object Tracking Vs. Object Detection}{6}{section.3.5}
+\contentsline {chapter}{\numberline {4}State Embeddings}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Dynamic image encoder}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Stack of difference of frame video-clip encoder}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}Grad-CAM ++}{7}{section.4.3}
+\contentsline {section}{\numberline {4.4}VCG}{8}{section.4.4}
+\contentsline {chapter}{\numberline {5}RL}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Definitions}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Off\HyphOrDash /Policy}{10}{section.5.2}
+\contentsline {section}{\numberline {5.3}On\HyphOrDash /Policy}{10}{section.5.3}
+\contentsline {section}{\numberline {5.4}Model Based}{10}{section.5.4}
+\contentsline {section}{\numberline {5.5}Model Free}{10}{section.5.5}
+\contentsline {section}{\numberline {5.6}DQN}{10}{section.5.6}
+\contentsline {section}{\numberline {5.7}A3C}{10}{section.5.7}
+\contentsline {chapter}{\numberline {6}IRL}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Apprenticeship Learing}{11}{section.6.1}
+\contentsline {section}{\numberline {6.2}Bayesian Inverse Reinforcement Learning}{11}{section.6.2}
+\contentsline {section}{\numberline {6.3}Maximum Entropy Reinforcement Learning}{11}{section.6.3}
+\contentsline {section}{\numberline {6.4}Generative Adversarial Imitation Learning}{11}{section.6.4}
+\contentsline {section}{\numberline {6.5}Project Scope}{11}{section.6.5}
+\contentsline {section}{\numberline {6.6}Report Outline}{11}{section.6.6}
+\contentsline {chapter}{\numberline {7}Policy Optimisation}{13}{chapter.7}
+\contentsline {section}{\numberline {7.1}Dynamic image encoder}{13}{section.7.1}
+\contentsline {section}{\numberline {7.2}Stack of difference of frame video-clip encoder}{13}{section.7.2}
+\contentsline {chapter}{Bibliography}{15}{section*.5}

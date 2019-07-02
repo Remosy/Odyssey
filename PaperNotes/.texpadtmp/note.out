@@ -7,27 +7,33 @@
 \BOOKMARK [1][-]{section.2.2}{Player Experience Extraction from Gameplay Video}{chapter.2}% 7
 \BOOKMARK [1][-]{section.2.3}{Learning Montezuma's Revenge from a Single Demonstration}{chapter.2}% 8
 \BOOKMARK [1][-]{section.2.4}{Deep Q-learning from Demonstration}{chapter.2}% 9
-\BOOKMARK [0][-]{chapter.3}{State Embeddings}{}% 10
-\BOOKMARK [1][-]{section.3.1}{Dynamic image encoder}{chapter.3}% 11
-\BOOKMARK [1][-]{section.3.2}{Stack of difference of frame video-clip encoder}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.3}{Grad-CAM ++}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.4}{VCG}{chapter.3}% 14
-\BOOKMARK [0][-]{chapter.4}{RL}{}% 15
-\BOOKMARK [1][-]{section.4.1}{Definitions}{chapter.4}% 16
-\BOOKMARK [1][-]{section.4.2}{Off/Policy}{chapter.4}% 17
-\BOOKMARK [1][-]{section.4.3}{On/Policy}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.4}{Model Based}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.5}{Model Free}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.6}{DQN}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.7}{A3C}{chapter.4}% 22
-\BOOKMARK [0][-]{chapter.5}{IRL}{}% 23
-\BOOKMARK [1][-]{section.5.1}{Apprenticeship Learing}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.2}{Bayesian Inverse Reinforcement Learning}{chapter.5}% 25
-\BOOKMARK [1][-]{section.5.3}{Maximum Entropy Reinforcement Learning}{chapter.5}% 26
-\BOOKMARK [1][-]{section.5.4}{Generative Adversarial Imitation Learning}{chapter.5}% 27
-\BOOKMARK [1][-]{section.5.5}{Project Scope}{chapter.5}% 28
-\BOOKMARK [1][-]{section.5.6}{Report Outline}{chapter.5}% 29
-\BOOKMARK [0][-]{chapter.6}{Policy Optimisation}{}% 30
-\BOOKMARK [1][-]{section.6.1}{Dynamic image encoder}{chapter.6}% 31
-\BOOKMARK [1][-]{section.6.2}{Stack of difference of frame video-clip encoder}{chapter.6}% 32
-\BOOKMARK [0][-]{section*.5}{Bibliography}{}% 33
+\BOOKMARK [0][-]{chapter.3}{Object Detection}{}% 10
+\BOOKMARK [1][-]{section.3.1}{My Application}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{Object-oriented state Abstraction in RL for Video Games}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.3}{CenterNet: Keypoint Triplets for Object Detection}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.4}{HSV vs. RGB vs. YUV}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.5}{Object Tracking Vs. Object Detection}{chapter.3}% 15
+\BOOKMARK [0][-]{chapter.4}{State Embeddings}{}% 16
+\BOOKMARK [1][-]{section.4.1}{Dynamic image encoder}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.2}{Stack of difference of frame video-clip encoder}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.3}{Grad-CAM ++}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.4}{VCG}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{RL}{}% 21
+\BOOKMARK [1][-]{section.5.1}{Definitions}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.2}{Off/Policy}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.3}{On/Policy}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.4}{Model Based}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.5}{Model Free}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.6}{DQN}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.7}{A3C}{chapter.5}% 28
+\BOOKMARK [0][-]{chapter.6}{IRL}{}% 29
+\BOOKMARK [1][-]{section.6.1}{Apprenticeship Learing}{chapter.6}% 30
+\BOOKMARK [1][-]{section.6.2}{Bayesian Inverse Reinforcement Learning}{chapter.6}% 31
+\BOOKMARK [1][-]{section.6.3}{Maximum Entropy Reinforcement Learning}{chapter.6}% 32
+\BOOKMARK [1][-]{section.6.4}{Generative Adversarial Imitation Learning}{chapter.6}% 33
+\BOOKMARK [1][-]{section.6.5}{Project Scope}{chapter.6}% 34
+\BOOKMARK [1][-]{section.6.6}{Report Outline}{chapter.6}% 35
+\BOOKMARK [0][-]{chapter.7}{Policy Optimisation}{}% 36
+\BOOKMARK [1][-]{section.7.1}{Dynamic image encoder}{chapter.7}% 37
+\BOOKMARK [1][-]{section.7.2}{Stack of difference of frame video-clip encoder}{chapter.7}% 38
+\BOOKMARK [0][-]{section*.5}{Bibliography}{}% 39
