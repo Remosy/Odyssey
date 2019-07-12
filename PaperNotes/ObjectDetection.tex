@@ -1,11 +1,29 @@
 \chapter{Object Detection}
 \label{cha:intro}
 \section{My Application}
-(1)Get folders' locations\\
-(2)Get/check output folder's name and location\\
-(3)Get normalise settings\\
-(4)Normalise images and save results with ordered names in specific folder\\
+(1)Download youtube Videos via "pytube"\\
+(2)Use "ffmpeg" to make 10-FPS videos\\
+	(a)This step can reduce frames of whole videos\\
+(3)Extract video frames from the 10-FPS videos\\
+(4)Annotate video frames by image labelling tools "RectLabel"\\
 (5)
+\section{Object Detection Pre-Train techniques}
+
+
+\section{Object Detection Trainning techniques}
+Q1:Ad hoc training\\
+Q2:How to Classify regions with SVMs\\
+Q3:The use of FC layer\\
+Q4:The use of Spatial Pyramid Pooling (SPP) layer\\
+Q5: What is Linear + softmax\\
+Q6:Region of Interest (RoI) pooling must be (sub') 
+differentiable to train conv layers\\
+Q7:What can be efficient SGD steps\\
+Q8:What is region'wise sampling\\
+Q9:What is mini batches\\
+Q10:Why is hierarchical sampling help build mini
+batches\\
+Q11:How Fast-RCNN solve out of region problem?
 \section{Object-oriented state Abstraction in RL for Video Games}
 \textbf{Reduce state space size}\\
 (1)known coordinates of objects in K classes and demonstrate $\phi :S\mapsto \{0,1\} ^{\{L\times L\times X\}}$\\
